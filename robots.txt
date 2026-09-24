@@ -2,4 +2,4 @@ User-agent: *
 
 Allow: /
 
-Sitemap: https://podcast.com/sitemap.xml 
+Sitemap: https://mananshah45.github.io/Podcasts/sitemap.xml
