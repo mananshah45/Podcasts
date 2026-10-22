@@ -1,23 +1,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>https://mananshah45.github.io/Podcasts/</loc>
+        <loc>https://mananshah45.github.io/Podcasts/index.html</loc>
     </url>
 
     <url>
-        <loc>https://mananshah45.github.io/Podcasts/business.html</loc>
+        <loc>https://mananshah45.github.io/Podcasts/Business%20Podcasts.html</loc>
     </url>
 
     <url>
-        <loc>https://mananshah45.github.io/Podcasts/sports_podcasts.html</loc>
+        <loc>https://mananshah45.github.io/Podcasts/Sports%20Podcasts.html</loc>
     </url>
 
     <url>
-        <loc>https://mananshah45.github.io/Podcasts/marketing_podcast.html</loc>
+        <loc>https://mananshah45.github.io/Podcasts/Marketing%20Podcast.html</loc>
     </url>
 
     <url>
-        <loc>https://mananshah45.github.io/Podcasts/adventure.html</loc>
+        <loc>https://mananshah45.github.io/Podcasts/Adventure%20Podcasts.html</loc>
+    </url>
+
+    <url>
+        <loc>https://mananshah45.github.io/Podcasts/Human%20Rights.html</loc>
+    </url>
+
+    <url>
+        <loc>https://mananshah45.github.io/Podcasts/AI%20Podcasts.html</loc>
     </url>
 
 </urlset>
